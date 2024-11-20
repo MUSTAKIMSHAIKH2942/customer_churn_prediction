@@ -10,6 +10,7 @@ notebooks/: Jupyter notebooks used for data exploration, data cleaning, feature 
 src/: Python scripts for different tasks like data preprocessing, feature engineering, model training, and prediction.
 models/: Stores the trained models and evaluation report files.
 reports/: Final project report and key findings are stored here.
+
 Setup
 Prerequisites
 Make sure to have Python 3.7+ installed. It's recommended to use a virtual environment.
